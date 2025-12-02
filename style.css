@@ -1,0 +1,47 @@
+/* Estilos para o body */
+body {
+    background-color: #f0f8ff; /* azul claro */
+    background-image: linear-gradient(to right, #f0f8ff, #e6e6fa); /* gradiente suave */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilos para o botão */
+button {
+    margin: 20px;
+    padding: 10px 20px;
+    border: 2px solid #4682b4;
+    background-color: #87cefa;
+    color: #000;
+    float: right; /* botão flutua à direita */
+    cursor: pointer;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #4682b4;
+    color: #fff;
+}
+
+/* Estilos para a imagem */
+img {
+    margin: 20px;
+    padding: 10px;
+    border: 3px solid #000;
+    position: relative; /* pode ser usado com top/left */
+    top: 10px;
+    left: 10px;
+    border-radius: 10px;
+}
+
+/* Estilos para o parágrafo */
+p {
+    margin: 20px;
+    padding: 15px;
+    border: 2px dashed #696969;
+    text-align: justify;
+    background-color: #fafafa;
+    line-height: 1.5;
+}
