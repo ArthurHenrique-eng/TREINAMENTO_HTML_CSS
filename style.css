@@ -1,7 +1,7 @@
 /* Estilos para o body */
 body {
-    background-color: #f0f8ff; /* azul claro */
-    background-image: linear-gradient(to right, #f0f8ff, #e6e6fa); /* gradiente suave */
+    background-color: #f0f8ff; /* cor do fundo - azul claro */
+    background-image: linear-gradient(to right, #f0f8ff, #e6e6fa); /* fundo da imagem */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
@@ -12,8 +12,8 @@ button {
     margin: 20px;
     padding: 10px 20px;
     border: 2px solid #4682b4;
-    background-color: #87cefa;
-    color: #000;
+    background-color: #87cefa; /* Cor do fundo */
+    color: #000; /* cor do texto */
     float: right; /* botão flutua à direita */
     cursor: pointer;
     border-radius: 8px;
